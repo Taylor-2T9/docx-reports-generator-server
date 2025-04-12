@@ -3,7 +3,7 @@ Gerador de Laudos DOCX - Server
 </h1>
 
 ## Introdução
-> Esse aplicativo é o front de um projeto de duas partes (server e front): o front coleta, via usuário, os campos variáveis para geração de laudos a partir de um modelo predefinido; o server, por sua vez, gera o laudo personalizado e envia para o aplicativo.
+> Esse aplicativo é o server de um projeto de duas partes (server e front): o front coleta, via usuário, os campos variáveis para geração de laudos a partir de um modelo predefinido; o server, por sua vez, gera o laudo personalizado e envia para o aplicativo.
 
 ## Tecnologias
 > Para este projeto, utilizei principalmente Node, docxtemplater e JWT.
